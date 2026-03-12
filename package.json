@@ -1,0 +1,13 @@
+{
+    "author": "Suhanth",
+    "name": "censorify-US",
+    "version": "0.1.2",
+    "description": "Censors words out of text",
+    "main": "app.js",
+    "dependencies": {
+      "censorify-sowmya": "^0.1.2"
+    },
+    "engines": {
+      "node": "*"
+    }
+  }
